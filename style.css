@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+}
+
+#note
+{
+    font-size: 25px;
+    color: aliceblue;
+    width: 500px;
+    color:black;
+    font-weight: bold;
+}
+#risha,#prerna,#amit,#anil,#shashi
+{
+    width: 200px;
+    height: 30px;
+    font-size: 15px;;
+    color: black;
+    font-weight: bold;
+}
